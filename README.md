@@ -1,6 +1,9 @@
 # Deep Learning - Globoko učenje
 ## Program za prepoznavo števk iz slik
 
+#### Dodaten Material
+Če vas zanima več o globokem učenju sta tukaj 2 povezavi do zbirke člankov, kjer si lahko podrobno pogledate kako globoko učenje deluje [tukaj](https://www.analyticsvidhya.com/blog/2021/06/a-comprehensive-tutorial-on-deep-learning-part-2/) in [tukaj](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-tutorial-on-deep-learning-part-1/)
+
 ### Opis
 Program z uporabo globoke nevronske mreže prepozna ročno napisane števke iz slik.
 
@@ -29,3 +32,4 @@ Več [tukaj](https://www.tensorflow.org/install).
 bla
 ```
 4. Poženite program.
+   
