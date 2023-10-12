@@ -27,9 +27,9 @@ Program je izdelan v pythonu z uporabo knjižnjic:
 Več [tukaj](https://pip.pypa.io/en/stable/installation/).
 2. Naložite **TenserFlow**
 Več [tukaj](https://www.tensorflow.org/install).
-3. Kopirajte ta Github repository v svojo mapo z komando v terminalu:
+3. Kopirajte ta Github repository v svojo mapo z komando v terminalu (če imate naložen git):
 ```
-bla
+git clone https://github.com/TijanNartnik/deep-learning.git
 ```
 4. Poženite program.
    
