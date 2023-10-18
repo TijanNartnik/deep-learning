@@ -2,8 +2,10 @@
 ## Program za prepoznavo števk iz slik
 
 #### Dodaten Material
-Če vas zanima več o globokem učenju sta tukaj 2 povezavi do zbirke člankov, kjer si lahko podrobno pogledate kako globoko učenje deluje [tukaj](https://www.analyticsvidhya.com/blog/2021/06/a-comprehensive-tutorial-on-deep-learning-part-2/) in [tukaj](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-tutorial-on-deep-learning-part-1/)
+- Če vas zanima več o globokem učenju sta tukaj 2 povezavi do zbirke člankov, kjer si lahko podrobno pogledate kako globoko učenje deluje [tukaj](https://www.analyticsvidhya.com/blog/2021/06/a-comprehensive-tutorial-on-deep-learning-part-2/) in [tukaj](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-tutorial-on-deep-learning-part-1/)
+- Dodaten primer v Pythonu: [tukaj](https://pylessons.com/handwriting-recognition) zaprepoznavo ročno napisanih besed.
 
+  
 ### Opis
 Program z uporabo globoke nevronske mreže prepozna ročno napisane števke iz slik.
 
